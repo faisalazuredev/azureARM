@@ -15,7 +15,7 @@
             "value": "StorageV2"
         },
         "accessTier": {
-            "value": "Hot"
+            "value": "Cool"
         },
         "minimumTlsVersion": {
             "value": "TLS1_2"
